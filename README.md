@@ -49,6 +49,7 @@ Every deal is tagged so you can scan fast:
 | 🎓 | **Student/educator verification** required |
 | 💼 | **Startup/program eligibility** required |
 | 💳 | Credit card required at signup (no auto-charge unless noted) |
+| 💰 | **Referral link** — you get a real bonus for using it; the maintainer gets a kickback. Fully disclosed, never hidden |
 
 > **⚡ Quick tip:** `Ctrl+F` is your friend. Looking for image gen? Search "image". Want no-credit-card deals? Search rows without 💳.
 
@@ -66,6 +67,7 @@ Frontier-model chatbots you can use without paying a cent.
 | [Microsoft Copilot](https://copilot.microsoft.com) | GPT-class chat, image gen, web search | Microsoft account; usage caps | 🔄 |
 | [Meta AI](https://www.meta.ai) | Llama-powered chat, unlimited-ish use | Meta account; region availability varies | ♾️ |
 | [DeepSeek](https://chat.deepseek.com) | Full DeepSeek chat incl. reasoning mode, free | Account required | ♾️ |
+| [Kimi (Moonshot AI)](https://kimi-bot.com/activities/viral-referral/share?scenario=invite&from=share_poster&invitation_code=YDB9A6) 💰 | Free Kimi chat + **referral roulette**: spin to win membership credits | Roulette promo is **referral-gated** & valid for new accounts only | 🔄 ⏳ |
 | [Mistral Le Chat](https://chat.mistral.ai) | Mistral's flagship chat, web search, code | Rate limits on free plan | 🔄 |
 | [Qwen Chat](https://chat.qwen.ai) | Alibaba's Qwen models incl. reasoning, free | Account required | ♾️ |
 | [NotebookLM](https://notebooklm.google.com) | Chat with your docs + podcast-style Audio Overviews | Google account; notebook/source caps | 🔄 |
