@@ -24,6 +24,7 @@
 - [💬 AI Chatbots & Assistants](#-ai-chatbots--assistants)
 - [👨‍💻 AI Coding Tools](#-ai-coding-tools)
 - [🔑 Free AI API Access & Credits](#-free-ai-api-access--credits)
+- [🌩️ API Relays & Resellers (Use at Your Own Risk)](#️-api-relays--resellers-use-at-your-own-risk)
 - [☁️ Cloud & GPU Credits](#️-cloud--gpu-credits)
 - [🎨 Image, Video & Audio Generation](#-image-video--audio-generation)
 - [🎓 Student & Education Deals](#-student--education-deals)
@@ -118,6 +119,30 @@ Build AI apps without a credit card. These platforms give you real API access fo
 | [GitHub Models](https://github.com/marketplace/models) | Free playground + API for GPT, Llama & more | Rate limits; GitHub account | 🔄 |
 | [Puter](https://puter.com) | Free serverless access to many models | Fair-use limits | 🔄 |
 | [Anthropic API](https://console.anthropic.com) | Occasional free credit promos for new accounts | Check console for active promos | ⏳ |
+
+**[⬆ back to top](#-table-of-contents)**
+
+---
+
+## 🌩️ API Relays & Resellers (Use at Your Own Risk)
+
+> **⚠️ READ THIS BEFORE USING ANYTHING IN THIS SECTION**
+>
+> These are **third-party API relays/resellers — not official providers**. The value can be insane, but know the deal:
+>
+> - 💀 Relays can **shut down or lose model access overnight** — never load money you can't afford to lose
+> - 🔒 **Never send sensitive or private data** through a relay — assume prompts may be logged
+> - 🔑 Use a **unique throwaway password** — don't reuse credentials from anywhere else
+> - 📜 Using a relay may violate the **upstream provider's ToS** — don't route accounts you care about
+> - 🏷️ Model versions below are **as advertised by the service** and can't always be independently verified
+> - 💰 Links here are **referral links** — full disclosure: they give the repo maintainer a bonus, and give **you** a bigger signup balance than a naked registration
+>
+> You were warned. Enjoy responsibly. 🫡
+
+| Service | What you get free | Advertised models | Caveats | Type |
+|---------|-------------------|-------------------|---------|:----:|
+| [AgentRouter](https://agentrouter.org/register?aff=kV4i) 💰 | **$175 credit balance** on signup via referral | Opus 4.6 / 4.7 / 4.8, GLM-5.2, GPT-5.5 | Lineup as advertised; relay risks above | ⏳ |
+| [Aerolink](https://aerolink.lat/register?ref=UOUDU84) 💰 | **~$180 total credits** across the 2-week free trial | Fable-5, GPT-5.6 | Credits staggered over 14 days; relay risks above | ⏳ |
 
 **[⬆ back to top](#-table-of-contents)**
 
