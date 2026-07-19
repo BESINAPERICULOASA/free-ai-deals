@@ -27,6 +27,7 @@
 - [☁️ Cloud & GPU Credits](#️-cloud--gpu-credits)
 - [🎨 Image, Video & Audio Generation](#-image-video--audio-generation)
 - [🎓 Student & Education Deals](#-student--education-deals)
+- [📱 Carrier & Regional Promos](#-carrier--regional-promos)
 - [🚀 Startup & Founder Programs](#-startup--founder-programs)
 - [🏠 Run AI Locally (Free Forever)](#-run-ai-locally-free-forever)
 - [📚 Free AI Learning Resources](#-free-ai-learning-resources)
@@ -83,6 +84,7 @@ AI pair-programmers, agents and code completion — free tiers galore.
 | [GitHub Copilot](https://github.com/features/copilot) | Free plan w/ monthly completions + chat | Capped completions/messages per month; **free Pro for students & OSS maintainers** 🎓 | 🔄 |
 | [Codeium / Windsurf](https://codeium.com) | Unlimited autocomplete + chat in 40+ IDEs | Individual plan free forever | ♾️ |
 | [Cursor](https://cursor.com) | Hobby plan w/ completions & limited agent requests | Monthly caps; watch for 🎓 student Pro promos | 🔄 |
+| [Kiro](https://kiro.dev) | Agentic AI IDE (by AWS) w/ Claude Sonnet & other models, spec-driven coding | Free plan w/ monthly credits; AWS Builder ID or GitHub login | 🔄 |
 | [Amazon Q Developer](https://aws.amazon.com/q/developer/) | Code suggestions, chat & CLI agent | Free tier w/ monthly limits; AWS Builder ID | 🔄 |
 | [Tabnine](https://www.tabnine.com) | Basic AI code completion | Free plan, shorter context | ♾️ |
 | [Supermaven](https://supermaven.com) | Fast code completion | Free tier w/ usage caps | 🔄 |
@@ -189,6 +191,18 @@ Got a `.edu` email or student ID? This section is basically free money.
 
 ---
 
+
+## 📱 Carrier & Regional Promos
+
+Region-locked promos — often bundled with phone plans or local campaigns. Worth checking if you're in the region!
+
+| Deal | What you get | Limits / Requirements | Type |
+|------|--------------|-----------------------|:----:|
+| [Jio × Google AI Pro](https://www.jio.com) | **Free Google AI Pro** (Gemini app Pro tier + 2TB storage) for up to 18 months | 🇮🇳 India only; eligible Jio 5G plan; activate via MyJio app, links to your Google account | ⏳ |
+
+**[⬆ back to top](#-table-of-contents)**
+
+---
 
 ## 🚀 Startup & Founder Programs
 
